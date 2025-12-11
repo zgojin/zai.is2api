@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+pydantic
+pydantic-settings
+sqlalchemy
+aiosqlite
+redis
+python-multipart
+APScheduler
+requests
